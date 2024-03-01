@@ -1,7 +1,7 @@
 # Robert NIYITANGA  
 
 
-#  I am highly motivated by the output of my work and I am a self-touch developer who loves to learn
+###  I am highly motivated by the output of my work and I am a self-touch developer who loves to learn
 
 # About me
 
