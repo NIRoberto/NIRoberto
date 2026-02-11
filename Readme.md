@@ -16,12 +16,18 @@
 
 ```typescript
 const robert = {
-    role: "Full-Stack Developer",
-    experience: "5+ years",
-    location: "Available for Remote/Hybrid",
-    currentFocus: ["Java Spring Boot", "Virtual Reality", "Cloud Architecture"],
-    passion: "Transforming ideas into scalable digital solutions"
+  role: "Full-Stack Developer",
+  experience: "5+ years",
+  location: "Open to Remote or Hybrid roles",
+  currentFocus: [
+    "AI Agent Development",
+    "DevOps",
+    "Full-Stack Development",
+    "Mobile Application Development"
+  ],
+  passion: "Building scalable, intelligent, and real-world software solutions"
 };
+
 ```
 
 I build **production-ready applications** for clients, startups, and enterprise companies. Over the past 5+ years, I've shipped mobile and web solutions across multiple industries including healthcare, event management, food delivery, and real estate. I focus on writing clean, maintainable code and delivering projects that scale.
