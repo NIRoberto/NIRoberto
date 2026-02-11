@@ -2,7 +2,7 @@
 
 # Hi, I'm Robert NIYITANGA
 
-### Full-Stack Developer | Building Scalable Solutions
+### Full-Stack Developer | 5+ Years Experience | Mobile, Web & DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robert-niyitanga/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:robertwilly668@gmail.com)
@@ -24,7 +24,7 @@ const robert = {
 };
 ```
 
-I specialize in building **end-to-end applications** that solve real-world problems. From mobile apps serving thousands of users to enterprise web platforms, I deliver clean, maintainable code with a focus on performance and user experience.
+I build **production-ready applications** for clients, startups, and enterprise companies. Over the past 5+ years, I've shipped mobile and web solutions across multiple industries including healthcare, event management, food delivery, and real estate. I focus on writing clean, maintainable code and delivering projects that scale.
 
 ## Tech Stack
 
@@ -60,35 +60,20 @@ I specialize in building **end-to-end applications** that solve real-world probl
 
 ## Featured Projects
 
-### [Ya Health](#)
-**Mobile Health Platform** | Flutter • Node.js • GraphQL
-- Developed health tracking features with personalized recommendations
-- Implemented offline-first architecture for seamless user experience
-- Integrated GraphQL for efficient data fetching and real-time updates
+### [Ya Health](#) | Flutter • Node.js • GraphQL
+Mobile health platform that helps users track their health metrics and receive personalized wellness recommendations.
 
-### [E-Plot Event](#)
-**Event Management App** | Flutter • Provider • Node.js
-- Built event booking and management system with intuitive UI
-- Integrated payment gateway and push notifications
-- Implemented state management using Provider for optimal performance
+### [E-Plot Event](#) | Flutter • Provider • Node.js
+Event management application that simplifies event booking, ticketing, and attendee management for organizers.
 
-### [Citi App](#)
-**Food Delivery Platform** | Flutter • Node.js • Provider
-- Developed delivery tracking system with real-time location updates
-- Built order management dashboard for restaurants
-- Optimized app performance for smooth user experience
+### [Citi App](#) | Flutter • Node.js • Provider
+Food delivery platform connecting customers with local restaurants, featuring real-time order tracking and delivery management.
 
-### [Ticket Booking Application](#)
-**Booking Platform** | React Native • Node.js
-- Created ticket reservation system with interactive seat selection
-- Integrated multiple payment gateways and QR code generation
-- Implemented secure authentication and booking confirmation system
+### [Ticket Booking Application](#) | React Native • Node.js
+Ticket reservation system for events and venues with interactive seat selection and secure payment processing.
 
-### [Real Estate Web Platform](#)
-**Property Management System** | Next.js • Node.js
-- Built property listing platform with advanced search and filters
-- Integrated map functionality for location-based searches
-- Developed responsive design for optimal mobile and desktop experience
+### [Real Estate Web Platform](#) | Next.js • Node.js
+Property listing and management platform that helps users search, filter, and discover real estate properties.
 
 ## What I Bring to Your Team
 
