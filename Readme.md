@@ -32,6 +32,7 @@ I build **production-ready applications** for clients, startups, and enterprise 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -39,6 +40,7 @@ I build **production-ready applications** for clients, startups, and enterprise 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -60,8 +62,17 @@ I build **production-ready applications** for clients, startups, and enterprise 
 
 ## Featured Projects
 
-### [Ya Health](#) | Flutter • Node.js • GraphQL
-Mobile health platform that helps users track their health metrics and receive personalized wellness recommendations.
+### [TheraTalk](#) | Flutter • NestJS • MongoDB
+Mental health and therapy platform connecting users with licensed therapists for virtual counseling sessions.
+
+### [TWP Employees](#) | React • NestJS • PostgreSQL
+Employee management system for workforce tracking, attendance, payroll, and performance management.
+
+### [Inkingi Construction](#) | Flutter • NestJS • MySQL
+Construction project management app for tracking projects, materials, budgets, and team coordination.
+
+### [Ya Health](#) | Flutter • Next.js • Django • GraphQL
+Web and mobile health platform that helps users track their health metrics and receive personalized wellness recommendations.
 
 ### [E-Plot Event](#) | Flutter • Provider • Node.js
 Event management application that simplifies event booking, ticketing, and attendee management for organizers.
