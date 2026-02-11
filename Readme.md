@@ -62,33 +62,33 @@ I specialize in building **end-to-end applications** that solve real-world probl
 
 ### [Ya Health](#)
 **Mobile Health Platform** | Flutter • Node.js • GraphQL
-- Built comprehensive health tracking system with personalized recommendations
-- Implemented real-time data synchronization and offline-first architecture
-- Serving 1000+ active users with 99.9% uptime
+- Developed health tracking features with personalized recommendations
+- Implemented offline-first architecture for seamless user experience
+- Integrated GraphQL for efficient data fetching and real-time updates
 
 ### [E-Plot Event](#)
 **Event Management App** | Flutter • Provider • Node.js
-- Developed end-to-end event booking and management solution
-- Integrated payment gateway and real-time notifications
-- Reduced event planning time by 60% for organizers
+- Built event booking and management system with intuitive UI
+- Integrated payment gateway and push notifications
+- Implemented state management using Provider for optimal performance
 
 ### [Citi App](#)
 **Food Delivery Platform** | Flutter • Node.js • Provider
-- Created scalable delivery logistics system with live tracking
-- Optimized order processing reducing delivery time by 30%
-- Managed 500+ daily orders across multiple restaurants
+- Developed delivery tracking system with real-time location updates
+- Built order management dashboard for restaurants
+- Optimized app performance for smooth user experience
 
 ### [Ticket Booking Application](#)
 **Booking Platform** | React Native • Node.js
-- Built seamless ticket reservation system with seat selection
-- Integrated multiple payment methods and QR code generation
-- Processed 10,000+ bookings with zero payment failures
+- Created ticket reservation system with interactive seat selection
+- Integrated multiple payment gateways and QR code generation
+- Implemented secure authentication and booking confirmation system
 
 ### [Real Estate Web Platform](#)
 **Property Management System** | Next.js • Node.js
-- Developed advanced search with filters and map integration
-- Implemented virtual tour features and agent dashboard
-- Increased property inquiries by 45% through improved UX
+- Built property listing platform with advanced search and filters
+- Integrated map functionality for location-based searches
+- Developed responsive design for optimal mobile and desktop experience
 
 ## What I Bring to Your Team
 
