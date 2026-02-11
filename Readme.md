@@ -90,18 +90,6 @@ I specialize in building **end-to-end applications** that solve real-world probl
 - Implemented virtual tour features and agent dashboard
 - Increased property inquiries by 45% through improved UX
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NIRoberto&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRoberto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIRoberto&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ## What I Bring to Your Team
 
 - **Full-Stack Expertise** - Seamless integration from database to UI  
